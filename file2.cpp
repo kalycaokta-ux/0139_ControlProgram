@@ -22,4 +22,6 @@ int main(){
 
     cout <<"Masukkan nilai Bahasa Inggris = ";
     cin >> nilBI;
+    cout <<"Masukkan nilai Matematika = ";
+    cin >> nilMT
 }
