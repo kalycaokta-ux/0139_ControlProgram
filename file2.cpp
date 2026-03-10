@@ -12,4 +12,6 @@ string Status_lulus(float r){
         return "Lolos dipertimbangkan";
     else if (r >=40)
         return "Lolos tetapi matrikulasi 1 tahun";
+    else
+        return "Gagal";
 }
